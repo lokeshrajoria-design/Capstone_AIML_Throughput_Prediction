@@ -7,9 +7,16 @@ radio measurements RSRP, RSRQ, SNR, CQI, and context: speed, network mode, appli
 ridge regression, random forest, and gradient boosting with a persistence baseline. Models are tested on whole
 held-out traces with nested grouped cross-validation, and again with whole recording days held out.
 
-**Main result:** gradient boosting with an absolute-error loss reduced mean trace MAE from 9.49 to 7.73 Mbps
-(improvement 1.76 Mbps, 95% CI [1.10, 2.54], p < .001) and beat persistence on all 83 traces. Radio measurements
-added almost nothing at one-second resolution; context features did not generalize to new recording days.
+**Final result (final report and presentation):** with nested cross-validation that withholds whole traces, gradient
+boosting with an absolute-error loss reduced mean trace MAE from 9,521 to 8,046 kbps (15.5%; mean improvement
+1,475 kbps, 95% CI [845, 2,106], p < .001) and beat the persistence baseline on 82 of 83 traces. Context features
+(speed, network mode, application) added a further 235 kbps (95% CI [51, 419], p = .006). A history-only model gained
+1,586 kbps over persistence, and adding radio measurements changed MAE by 111 kbps (slightly worse), so the gain comes
+from throughput history. Code, settings and results are in `final/` (seed 0; run `python final/final_analysis.py`).
+
+**Earlier interim run:** the code in `tput/`, `outputs/` and the Colab notebook reproduces the interim-report analysis
+(seed 640, different evaluation design; mean MAE 9.49 to 7.73 Mbps). Those numbers are kept for reference and are not
+the final results.
 
 ## Data
 
@@ -59,6 +66,7 @@ for the interim report) writes the .docx into a local `docs/` folder (not tracke
 ## Repository layout
 
 ```
+final/        final analysis (RQ1 to RQ4): scripts, settings, results
 tput/         analysis package: config, cleaning, features, models, statistics
 tests/        unit tests for timing and leakage rules
 report/       report builders (docx) and report_data.json

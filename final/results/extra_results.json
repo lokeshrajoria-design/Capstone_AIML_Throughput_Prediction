@@ -1,0 +1,71 @@
+{
+ "missing_share_raw_records": {
+  "Speed": 0.0,
+  "RSRP": 0.0,
+  "RSRQ": 0.019256959053791246,
+  "SNR": 0.09059355310501242,
+  "CQI": 0.09059885221317253,
+  "DL_bitrate": 0.0
+ },
+ "raw_records": 188711,
+ "target_percentiles_kbps": {
+  "Amazon_Prime": {
+   "n": 63380,
+   "zero_share": 0.3733196591984853,
+   "median": 276.0,
+   "p95": 10739.0,
+   "p99": 15739.149999999987,
+   "max": 186979.0,
+   "share_of_total_above_p99": 0.16196397016049197
+  },
+  "Netflix": {
+   "n": 65221,
+   "zero_share": 0.7375385228684013,
+   "median": 0.0,
+   "p95": 3278.0,
+   "p99": 22254.600000000064,
+   "max": 137583.0,
+   "share_of_total_above_p99": 0.42338893373862324
+  },
+  "Download": {
+   "n": 32535,
+   "zero_share": 0.027170739203934223,
+   "median": 14076.0,
+   "p95": 213143.6,
+   "p99": 279478.01999999996,
+   "max": 532905.0,
+   "share_of_total_above_p99": 0.07194579304375642
+  }
+ },
+ "zero_share_by_group": {
+  "Amazon_Prime|Static": 0.3579811473874774,
+  "Amazon_Prime|Driving": 0.3889987875693957,
+  "Netflix|Static": 0.7698025259046959,
+  "Netflix|Driving": 0.7069315805198685,
+  "Download|Static": 0.020906506104699782,
+  "Download|Driving": 0.030811099771589637
+ },
+ "rows_by_group": {
+  "Amazon_Prime|Static": 32038,
+  "Amazon_Prime|Driving": 31342,
+  "Netflix|Static": 31751,
+  "Netflix|Driving": 33470,
+  "Download|Static": 11958,
+  "Download|Driving": 20577
+ },
+ "train_vs_test": {
+  "train": {
+   "mae_persistence": 9521.10513404653,
+   "mae_model": 7742.555500726738,
+   "rmse_persistence": 18202.36075349063,
+   "rmse_model": 14806.9178645883
+  },
+  "test": {
+   "mae_persistence": 9521.105134046531,
+   "mae_model": 8045.780454559293,
+   "rmse_persistence": 18202.360753490633,
+   "rmse_model": 15171.670780239672
+  },
+  "note": "Mean of trace-level errors. Training figures are in-sample: each trace appears in the training set of four of the five folds, so the train means average four fits per trace; test figures are one withheld fit per trace."
+ }
+}
