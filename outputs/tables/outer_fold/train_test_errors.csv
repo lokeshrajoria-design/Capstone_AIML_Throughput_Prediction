@@ -1,0 +1,6 @@
+model,train_mae,train_rmse,test_mae,test_rmse
+persistence,9.4877,18.1199,9.4566,18.1159
+base_ridge,8.911,14.6592,8.904,14.6775
+base_rf,7.3611,12.687,8.1069,13.8656
+base_hgb,7.577,14.1188,7.6992,14.3068
+context_selected,7.3682,13.8827,7.5377,14.1074

@@ -1,0 +1,7 @@
+﻿nested CV on date_fold
+  fold 0: selected hgb, 124447 train / 36194 test rows, 225 s
+  fold 1: selected hgb, 125259 train / 35382 test rows, 211 s
+  fold 2: selected hgb, 131128 train / 29513 test rows, 215 s
+  fold 3: selected rf, 129822 train / 30819 test rows, 292 s
+  fold 4: selected hgb, 131908 train / 28733 test rows, 224 s
+done in 19.5 min

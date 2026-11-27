@@ -1,0 +1,7 @@
+application_type,mobility_condition,0,1,2,3,4
+Amazon Prime,Driving,5,4,4,4,4
+Amazon Prime,Static,1,3,2,1,1
+Download,Driving,4,2,3,4,3
+Download,Static,1,2,1,0,1
+Netflix,Driving,4,4,5,5,5
+Netflix,Static,2,2,2,2,2

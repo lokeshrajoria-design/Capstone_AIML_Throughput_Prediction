@@ -1,0 +1,5 @@
+comparison,traces,mean_delta_mbps,ci95_low,ci95_high,date_ci95_low,date_ci95_high,boot_share_le_0,traces_improved_pct,median_rel_improvement_pct
+ref_zero - base_selected,83,3.644,1.715,5.937,0.962,6.921,0.0,38.554,-5.716
+ref_mean_10s - base_selected,83,0.795,0.531,1.095,0.472,1.191,0.0,85.542,16.146
+ref_zero - context_selected,83,3.666,1.768,5.952,1.027,6.938,0.0,65.06,2.116
+ref_mean_10s - context_selected,83,0.817,0.546,1.138,0.509,1.215,0.0,86.747,23.707

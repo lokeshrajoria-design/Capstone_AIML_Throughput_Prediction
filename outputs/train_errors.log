@@ -1,0 +1,12 @@
+fold 0 done in 40 s
+fold 1 done in 30 s
+fold 2 done in 27 s
+fold 3 done in 28 s
+fold 4 done in 34 s
+                  train_mae  train_rmse  test_mae  test_rmse
+model                                                       
+persistence            9.49       18.12      9.46      18.12
+base_ridge             8.91       14.66      8.90      14.68
+base_rf                7.36       12.69      8.11      13.87
+base_hgb               7.58       14.12      7.70      14.31
+context_selected       7.37       13.88      7.54      14.11

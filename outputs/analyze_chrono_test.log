@@ -1,0 +1,44 @@
+﻿python : Traceback (most recent call last):
+At line:1 char:474
++ ... o_test.log; python analyze_models.py --split chrono_test *> outputs\a ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (Traceback (most recent call last)::String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+  File "D:\IN000121\Documents\5G Throughput Capstone\analysis\analyze_models.py", line 126, in <module>
+    main()
+    ~~~~^^
+  File "D:\IN000121\Documents\5G Throughput Capstone\analysis\analyze_models.py", line 54, in main
+    p = pd.read_parquet(C.ROOT / "outputs" / "models" / f"predictions_{a.split}.parquet")
+  File "C:\Users\IN000121\AppData\Local\Programs\Python\Python313\Lib\site-packages\pandas\io\parquet.py", line 667, 
+in read_parquet
+    return impl.read(
+           ~~~~~~~~~^
+        path,
+        ^^^^^
+    ...<6 lines>...
+        **kwargs,
+        ^^^^^^^^^
+    )
+    ^
+  File "C:\Users\IN000121\AppData\Local\Programs\Python\Python313\Lib\site-packages\pandas\io\parquet.py", line 267, 
+in read
+    path_or_handle, handles, filesystem = _get_path_or_handle(
+                                          ~~~~~~~~~~~~~~~~~~~^
+        path,
+        ^^^^^
+    ...<2 lines>...
+        mode="rb",
+        ^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\IN000121\AppData\Local\Programs\Python\Python313\Lib\site-packages\pandas\io\parquet.py", line 140, 
+in _get_path_or_handle
+    handles = get_handle(
+        path_or_handle, mode, is_text=False, storage_options=storage_options
+    )
+  File "C:\Users\IN000121\AppData\Local\Programs\Python\Python313\Lib\site-packages\pandas\io\common.py", line 882, in 
+get_handle
+    handle = open(handle, ioargs.mode)
+FileNotFoundError: [Errno 2] No such file or directory: 'D:\\IN000121\\Documents\\5G Throughput 
+Capstone\\analysis\\outputs\\models\\predictions_chrono_test.parquet'

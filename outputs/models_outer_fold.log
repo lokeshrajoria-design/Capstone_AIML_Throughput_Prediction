@@ -1,0 +1,7 @@
+nested CV on outer_fold
+  fold 0: selected hgb, 137074 train / 23567 test rows, 235 s
+  fold 1: selected hgb, 115659 train / 44982 test rows, 197 s
+  fold 2: selected hgb, 124745 train / 35896 test rows, 207 s
+  fold 3: selected hgb, 133936 train / 26705 test rows, 226 s
+  fold 4: selected hgb, 131150 train / 29491 test rows, 240 s
+done in 18.4 min

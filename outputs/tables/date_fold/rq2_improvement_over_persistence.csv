@@ -1,0 +1,5 @@
+comparison,traces,mean_delta_mbps,ci95_low,ci95_high,date_ci95_low,date_ci95_high,boot_share_le_0,traces_improved_pct,median_rel_improvement_pct
+persistence - base_ridge,83,0.5,-0.285,1.401,-0.705,1.984,0.122,25.301,-74.002
+persistence - base_rf,83,1.313,0.469,2.347,0.158,2.723,0.0,33.735,-12.754
+persistence - base_hgb,83,1.736,1.017,2.586,0.731,2.954,0.0,92.771,22.749
+persistence - base_selected,83,1.744,1.024,2.591,0.744,2.95,0.0,92.771,22.796

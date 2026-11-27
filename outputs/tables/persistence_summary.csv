@@ -1,0 +1,7 @@
+model,group,traces,origins,mean_trace_mae,mean_trace_rmse
+persistence,Amazon Prime,29,63218,1.88,4.902
+persistence,Download,21,32395,32.798,56.749
+persistence,Driving,60,85024,7.565,15.523
+persistence,Netflix,33,65028,1.345,5.154
+persistence,Static,23,75617,14.511,24.894
+persistence,all,83,160641,9.49,18.12

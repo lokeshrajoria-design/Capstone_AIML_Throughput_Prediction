@@ -1,0 +1,12 @@
+,value
+raw_rows,188711.0
+rows_with_repeated_timestamp,15816.0
+rsrp_sentinel_minus200,73.0
+neighbour_rsrp_sentinel_minus205,91.0
+snr_below_minus23,3.0
+cqi_zero,9.0
+seconds_after_merge,180743.0
+gaps_2s,18851.0
+gaps_3s_plus,515.0
+max_dl_mbps,532.9
+max_speed_kmh,105.0

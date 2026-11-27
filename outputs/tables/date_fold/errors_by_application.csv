@@ -1,0 +1,4 @@
+application_type,persistence,base_ridge,base_rf,base_hgb,base_selected,context_selected,ref_zero,ref_mean_10s
+Amazon Prime,1.88,2.505,1.93,1.617,1.594,1.538,1.635,1.788
+Download,32.798,27.434,26.909,26.974,26.978,27.114,41.506,29.08
+Netflix,1.345,2.951,1.747,0.915,0.914,0.819,0.797,1.405

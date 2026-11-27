@@ -1,0 +1,2 @@
+comparison,traces,mean_delta_mbps,ci95_low,ci95_high,date_ci95_low,date_ci95_high,boot_share_le_0,traces_improved_pct,median_rel_improvement_pct
+base_selected - context_selected,83,0.023,-0.069,0.106,-0.086,0.113,0.295,83.133,7.233

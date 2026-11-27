@@ -1,0 +1,5 @@
+comparison,level,diff,ci_low,ci_high,n_a,n_b
+Driving - Static,0.95,-1.929,-4.454,0.109,60,23
+Amazon Prime - Download,0.983,-5.343,-8.458,-2.689,29,21
+Amazon Prime - Netflix,0.983,-0.184,-0.339,-0.02,29,33
+Download - Netflix,0.983,5.159,2.501,8.369,21,33

@@ -1,0 +1,6 @@
+comparison,traces,mean_delta_mbps,ci95_low,ci95_high,date_ci95_low,date_ci95_high,boot_share_le_0,traces_improved_pct,median_rel_improvement_pct,mean_mae_persistence,mean_mae_model
+mobility_condition=Driving,60,1.392,0.841,2.033,0.663,2.34,0.0,100.0,29.934,7.565,6.173
+mobility_condition=Static,23,3.309,1.4,5.652,1.344,6.273,0.0,100.0,31.365,14.511,11.202
+application_type=Amazon Prime,29,0.419,0.322,0.53,0.293,0.598,0.0,100.0,27.742,1.88,1.461
+application_type=Download,21,6.126,3.986,8.491,4.501,7.393,0.0,100.0,18.035,32.798,26.672
+application_type=Netflix,33,0.571,0.514,0.631,0.514,0.629,0.0,100.0,43.62,1.345,0.773

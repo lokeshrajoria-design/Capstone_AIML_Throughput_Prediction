@@ -1,0 +1,9 @@
+model,traces,mean_trace_mae,mean_trace_rmse,row_weighted_mae
+persistence,83,9.49,18.12,8.728
+base_ridge,83,8.99,14.721,8.43
+base_rf,83,8.177,13.981,7.556
+base_hgb,83,7.754,14.12,7.073
+base_selected,83,7.746,14.057,7.06
+context_selected,83,7.723,13.951,7.051
+ref_zero,83,11.39,19.938,10.369
+ref_mean_10s,83,8.541,15.199,7.891

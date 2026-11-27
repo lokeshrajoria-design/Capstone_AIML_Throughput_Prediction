@@ -1,0 +1,59 @@
+{
+  "split": "outer_fold",
+  "grids": {
+    "ridge": [
+      {
+        "alpha": 0.1
+      },
+      {
+        "alpha": 1.0
+      },
+      {
+        "alpha": 10.0
+      },
+      {
+        "alpha": 100.0
+      }
+    ],
+    "rf": [
+      {
+        "min_samples_leaf": 5,
+        "max_features": 0.5
+      },
+      {
+        "min_samples_leaf": 5,
+        "max_features": 1.0
+      },
+      {
+        "min_samples_leaf": 20,
+        "max_features": 0.5
+      },
+      {
+        "min_samples_leaf": 20,
+        "max_features": 1.0
+      }
+    ],
+    "hgb": [
+      {
+        "loss": "squared_error",
+        "learning_rate": 0.05
+      },
+      {
+        "loss": "squared_error",
+        "learning_rate": 0.1
+      },
+      {
+        "loss": "absolute_error",
+        "learning_rate": 0.05
+      },
+      {
+        "loss": "absolute_error",
+        "learning_rate": 0.1
+      }
+    ]
+  },
+  "seed": 640,
+  "minutes": 18.4,
+  "rows": 160641,
+  "traces": 83
+}

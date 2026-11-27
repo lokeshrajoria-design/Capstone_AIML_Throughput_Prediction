@@ -1,0 +1,7 @@
+application_type,mobility_condition,traces,origins,with_target,eligible,eligible_pct
+Amazon Prime,Driving,21,35927,31342,31223,86.9
+Amazon Prime,Static,8,34925,32038,31995,91.6
+Download,Driving,16,24446,20577,20462,83.7
+Download,Static,5,14490,11958,11933,82.4
+Netflix,Driving,23,36409,33470,33339,91.6
+Netflix,Static,10,34546,31751,31689,91.7

@@ -1,0 +1,333 @@
+trace_id,measurement,n_pairs,eligible,rho,application_type,mobility_condition,recording_date
+Amazon_Prime/Driving/Season3-TheExpanse/B_2019.12.01_12.11.21.csv,RSRP,419,True,-0.024379114963384435,Amazon Prime,Driving,2019-12-01
+Amazon_Prime/Driving/Season3-TheExpanse/B_2019.12.01_12.11.21.csv,RSRQ,419,True,0.021304208564437137,Amazon Prime,Driving,2019-12-01
+Amazon_Prime/Driving/Season3-TheExpanse/B_2019.12.01_12.11.21.csv,SNR,419,True,-0.0013416997333120882,Amazon Prime,Driving,2019-12-01
+Amazon_Prime/Driving/Season3-TheExpanse/B_2019.12.01_12.11.21.csv,CQI,419,True,-0.01595090286433503,Amazon Prime,Driving,2019-12-01
+Amazon_Prime/Driving/Season3-TheExpanse/B_2019.12.01_13.05.00.csv,RSRP,578,True,-0.10795801302735322,Amazon Prime,Driving,2019-12-01
+Amazon_Prime/Driving/Season3-TheExpanse/B_2019.12.01_13.05.00.csv,RSRQ,578,True,0.032499199470167835,Amazon Prime,Driving,2019-12-01
+Amazon_Prime/Driving/Season3-TheExpanse/B_2019.12.01_13.05.00.csv,SNR,578,True,-0.03955575101439484,Amazon Prime,Driving,2019-12-01
+Amazon_Prime/Driving/Season3-TheExpanse/B_2019.12.01_13.05.00.csv,CQI,578,True,-0.08110579466697265,Amazon Prime,Driving,2019-12-01
+Amazon_Prime/Driving/Season3-TheExpanse/B_2019.12.02_07.26.15.csv,RSRP,1118,True,-0.04776422344986477,Amazon Prime,Driving,2019-12-02
+Amazon_Prime/Driving/Season3-TheExpanse/B_2019.12.02_07.26.15.csv,RSRQ,1118,True,0.050328472637277535,Amazon Prime,Driving,2019-12-02
+Amazon_Prime/Driving/Season3-TheExpanse/B_2019.12.02_07.26.15.csv,SNR,1118,True,0.04106211356372387,Amazon Prime,Driving,2019-12-02
+Amazon_Prime/Driving/Season3-TheExpanse/B_2019.12.02_07.26.15.csv,CQI,1118,True,0.040194210596047046,Amazon Prime,Driving,2019-12-02
+Amazon_Prime/Driving/Season3-TheExpanse/B_2019.12.02_09.39.35.csv,RSRP,495,True,0.05178136486901506,Amazon Prime,Driving,2019-12-02
+Amazon_Prime/Driving/Season3-TheExpanse/B_2019.12.02_09.39.35.csv,RSRQ,495,True,-0.06633307706363815,Amazon Prime,Driving,2019-12-02
+Amazon_Prime/Driving/Season3-TheExpanse/B_2019.12.02_09.39.35.csv,SNR,106,True,0.305746536693028,Amazon Prime,Driving,2019-12-02
+Amazon_Prime/Driving/Season3-TheExpanse/B_2019.12.02_09.39.35.csv,CQI,106,True,0.16342399608652733,Amazon Prime,Driving,2019-12-02
+Amazon_Prime/Driving/Season3-TheExpanse/B_2019.12.02_12.41.17.csv,RSRP,739,True,0.010860119348136818,Amazon Prime,Driving,2019-12-02
+Amazon_Prime/Driving/Season3-TheExpanse/B_2019.12.02_12.41.17.csv,RSRQ,737,True,-0.007835638393620774,Amazon Prime,Driving,2019-12-02
+Amazon_Prime/Driving/Season3-TheExpanse/B_2019.12.02_12.41.17.csv,SNR,465,True,0.10284776979710046,Amazon Prime,Driving,2019-12-02
+Amazon_Prime/Driving/Season3-TheExpanse/B_2019.12.02_12.41.17.csv,CQI,465,True,-0.0029538063382622054,Amazon Prime,Driving,2019-12-02
+Amazon_Prime/Driving/Season3-TheExpanse/B_2019.12.03_07.29.22.csv,RSRP,960,True,0.004118673860412234,Amazon Prime,Driving,2019-12-03
+Amazon_Prime/Driving/Season3-TheExpanse/B_2019.12.03_07.29.22.csv,RSRQ,960,True,0.015829287943762493,Amazon Prime,Driving,2019-12-03
+Amazon_Prime/Driving/Season3-TheExpanse/B_2019.12.03_07.29.22.csv,SNR,960,True,-0.011860229207870537,Amazon Prime,Driving,2019-12-03
+Amazon_Prime/Driving/Season3-TheExpanse/B_2019.12.03_07.29.22.csv,CQI,960,True,-0.05689258957233195,Amazon Prime,Driving,2019-12-03
+Amazon_Prime/Driving/Season3-TheExpanse/B_2019.12.03_10.42.14.csv,RSRP,558,True,0.004355919340032435,Amazon Prime,Driving,2019-12-03
+Amazon_Prime/Driving/Season3-TheExpanse/B_2019.12.03_10.42.14.csv,RSRQ,558,True,-0.014872380245494973,Amazon Prime,Driving,2019-12-03
+Amazon_Prime/Driving/Season3-TheExpanse/B_2019.12.03_10.42.14.csv,SNR,558,True,0.04109722165688608,Amazon Prime,Driving,2019-12-03
+Amazon_Prime/Driving/Season3-TheExpanse/B_2019.12.03_10.42.14.csv,CQI,558,True,-0.033863850710165476,Amazon Prime,Driving,2019-12-03
+Amazon_Prime/Driving/Season3-TheExpanse/B_2019.12.03_13.58.03.csv,RSRP,1806,True,0.04403411516705979,Amazon Prime,Driving,2019-12-03
+Amazon_Prime/Driving/Season3-TheExpanse/B_2019.12.03_13.58.03.csv,RSRQ,1806,True,0.04300284925983558,Amazon Prime,Driving,2019-12-03
+Amazon_Prime/Driving/Season3-TheExpanse/B_2019.12.03_13.58.03.csv,SNR,1043,True,-0.026639747908932324,Amazon Prime,Driving,2019-12-03
+Amazon_Prime/Driving/Season3-TheExpanse/B_2019.12.03_13.58.03.csv,CQI,1043,True,-0.07427062290662237,Amazon Prime,Driving,2019-12-03
+Amazon_Prime/Driving/Season3-TheExpanse/B_2019.12.04_07.26.30.csv,RSRP,1768,True,-0.008668295064420113,Amazon Prime,Driving,2019-12-04
+Amazon_Prime/Driving/Season3-TheExpanse/B_2019.12.04_07.26.30.csv,RSRQ,1768,True,-0.07440787406652723,Amazon Prime,Driving,2019-12-04
+Amazon_Prime/Driving/Season3-TheExpanse/B_2019.12.04_07.26.30.csv,SNR,1768,True,-0.07906861956566068,Amazon Prime,Driving,2019-12-04
+Amazon_Prime/Driving/Season3-TheExpanse/B_2019.12.04_07.26.30.csv,CQI,1768,True,-0.045228760811478856,Amazon Prime,Driving,2019-12-04
+Amazon_Prime/Driving/Season3-TheExpanse/B_2019.12.04_11.58.01.csv,RSRP,670,True,-0.06336256434131056,Amazon Prime,Driving,2019-12-04
+Amazon_Prime/Driving/Season3-TheExpanse/B_2019.12.04_11.58.01.csv,RSRQ,670,True,-0.09286963084492238,Amazon Prime,Driving,2019-12-04
+Amazon_Prime/Driving/Season3-TheExpanse/B_2019.12.04_11.58.01.csv,SNR,662,True,-0.07776658703269264,Amazon Prime,Driving,2019-12-04
+Amazon_Prime/Driving/Season3-TheExpanse/B_2019.12.04_11.58.01.csv,CQI,662,True,-0.027099288912464534,Amazon Prime,Driving,2019-12-04
+Amazon_Prime/Driving/Season3-TheExpanse/B_2019.12.04_14.24.21.csv,RSRP,675,True,0.03228307162704262,Amazon Prime,Driving,2019-12-04
+Amazon_Prime/Driving/Season3-TheExpanse/B_2019.12.04_14.24.21.csv,RSRQ,675,True,-0.17648348011319792,Amazon Prime,Driving,2019-12-04
+Amazon_Prime/Driving/Season3-TheExpanse/B_2019.12.04_14.24.21.csv,SNR,216,True,-0.06758022727042286,Amazon Prime,Driving,2019-12-04
+Amazon_Prime/Driving/Season3-TheExpanse/B_2019.12.04_14.24.21.csv,CQI,216,True,-0.013361126433938627,Amazon Prime,Driving,2019-12-04
+Amazon_Prime/Driving/Season3-TheExpanse/B_2019.12.06_07.31.16.csv,RSRP,2603,True,-0.030881913501817876,Amazon Prime,Driving,2019-12-06
+Amazon_Prime/Driving/Season3-TheExpanse/B_2019.12.06_07.31.16.csv,RSRQ,2603,True,0.0004516728801531437,Amazon Prime,Driving,2019-12-06
+Amazon_Prime/Driving/Season3-TheExpanse/B_2019.12.06_07.31.16.csv,SNR,2009,True,-0.052018500560794365,Amazon Prime,Driving,2019-12-06
+Amazon_Prime/Driving/Season3-TheExpanse/B_2019.12.06_07.31.16.csv,CQI,2009,True,-0.06120934567260688,Amazon Prime,Driving,2019-12-06
+Amazon_Prime/Driving/Season3-TheExpanse/B_2019.12.06_09.32.38.csv,RSRP,601,True,-0.05553485830551236,Amazon Prime,Driving,2019-12-06
+Amazon_Prime/Driving/Season3-TheExpanse/B_2019.12.06_09.32.38.csv,RSRQ,601,True,-0.05291113857196414,Amazon Prime,Driving,2019-12-06
+Amazon_Prime/Driving/Season3-TheExpanse/B_2019.12.06_09.32.38.csv,SNR,200,True,-0.03460338407143759,Amazon Prime,Driving,2019-12-06
+Amazon_Prime/Driving/Season3-TheExpanse/B_2019.12.06_09.32.38.csv,CQI,200,True,-0.08608986558629414,Amazon Prime,Driving,2019-12-06
+Amazon_Prime/Driving/Season3-TheExpanse/B_2019.12.06_11.49.24.csv,RSRP,1566,True,-0.0662406916126279,Amazon Prime,Driving,2019-12-06
+Amazon_Prime/Driving/Season3-TheExpanse/B_2019.12.06_11.49.24.csv,RSRQ,1566,True,-0.07849920755168624,Amazon Prime,Driving,2019-12-06
+Amazon_Prime/Driving/Season3-TheExpanse/B_2019.12.06_11.49.24.csv,SNR,599,True,-0.0640843524565561,Amazon Prime,Driving,2019-12-06
+Amazon_Prime/Driving/Season3-TheExpanse/B_2019.12.06_11.49.24.csv,CQI,599,True,-0.010666243264601805,Amazon Prime,Driving,2019-12-06
+Amazon_Prime/Driving/animated-AdventureTime/B_2019.11.28_07.27.57.csv,RSRP,1018,True,0.014706924045998581,Amazon Prime,Driving,2019-11-28
+Amazon_Prime/Driving/animated-AdventureTime/B_2019.11.28_07.27.57.csv,RSRQ,1018,True,0.008581505505670613,Amazon Prime,Driving,2019-11-28
+Amazon_Prime/Driving/animated-AdventureTime/B_2019.11.28_07.27.57.csv,SNR,823,True,0.04644875019558962,Amazon Prime,Driving,2019-11-28
+Amazon_Prime/Driving/animated-AdventureTime/B_2019.11.28_07.27.57.csv,CQI,823,True,0.01707102732353234,Amazon Prime,Driving,2019-11-28
+Amazon_Prime/Driving/animated-AdventureTime/B_2019.11.28_10.14.25.csv,RSRP,629,True,0.07409517089263339,Amazon Prime,Driving,2019-11-28
+Amazon_Prime/Driving/animated-AdventureTime/B_2019.11.28_10.14.25.csv,RSRQ,629,True,0.014427669316312995,Amazon Prime,Driving,2019-11-28
+Amazon_Prime/Driving/animated-AdventureTime/B_2019.11.28_10.14.25.csv,SNR,629,True,0.02410385110275426,Amazon Prime,Driving,2019-11-28
+Amazon_Prime/Driving/animated-AdventureTime/B_2019.11.28_10.14.25.csv,CQI,629,True,0.0367420926653994,Amazon Prime,Driving,2019-11-28
+Amazon_Prime/Driving/animated-AdventureTime/B_2019.11.28_12.05.29.csv,RSRP,580,True,-0.09981657082597825,Amazon Prime,Driving,2019-11-28
+Amazon_Prime/Driving/animated-AdventureTime/B_2019.11.28_12.05.29.csv,RSRQ,580,True,-0.07191996419205518,Amazon Prime,Driving,2019-11-28
+Amazon_Prime/Driving/animated-AdventureTime/B_2019.11.28_12.05.29.csv,SNR,322,True,0.007085619500317181,Amazon Prime,Driving,2019-11-28
+Amazon_Prime/Driving/animated-AdventureTime/B_2019.11.28_12.05.29.csv,CQI,322,True,0.04865747679409322,Amazon Prime,Driving,2019-11-28
+Amazon_Prime/Driving/animated-AdventureTime/B_2019.11.28_14.53.29.csv,RSRP,2506,True,-0.09633944846028789,Amazon Prime,Driving,2019-11-28
+Amazon_Prime/Driving/animated-AdventureTime/B_2019.11.28_14.53.29.csv,RSRQ,2506,True,-0.0658414694473708,Amazon Prime,Driving,2019-11-28
+Amazon_Prime/Driving/animated-AdventureTime/B_2019.11.28_14.53.29.csv,SNR,2069,True,0.020468906937593814,Amazon Prime,Driving,2019-11-28
+Amazon_Prime/Driving/animated-AdventureTime/B_2019.11.28_14.53.29.csv,CQI,2069,True,0.03818167064534542,Amazon Prime,Driving,2019-11-28
+Amazon_Prime/Driving/animated-AdventureTime/B_2019.11.28_17.18.56.csv,RSRP,584,True,-0.014682179679292324,Amazon Prime,Driving,2019-11-28
+Amazon_Prime/Driving/animated-AdventureTime/B_2019.11.28_17.18.56.csv,RSRQ,584,True,-0.08822405070901132,Amazon Prime,Driving,2019-11-28
+Amazon_Prime/Driving/animated-AdventureTime/B_2019.11.28_17.18.56.csv,SNR,584,True,0.007847617694343001,Amazon Prime,Driving,2019-11-28
+Amazon_Prime/Driving/animated-AdventureTime/B_2019.11.28_17.18.56.csv,CQI,584,True,0.026445349054838817,Amazon Prime,Driving,2019-11-28
+Amazon_Prime/Driving/animated-AdventureTime/B_2019.11.29_09.37.23.csv,RSRP,1232,True,0.03398860486453175,Amazon Prime,Driving,2019-11-29
+Amazon_Prime/Driving/animated-AdventureTime/B_2019.11.29_09.37.23.csv,RSRQ,1229,True,0.08228155289120415,Amazon Prime,Driving,2019-11-29
+Amazon_Prime/Driving/animated-AdventureTime/B_2019.11.29_09.37.23.csv,SNR,670,True,0.08228280948191724,Amazon Prime,Driving,2019-11-29
+Amazon_Prime/Driving/animated-AdventureTime/B_2019.11.29_09.37.23.csv,CQI,670,True,-0.0011098364798481208,Amazon Prime,Driving,2019-11-29
+Amazon_Prime/Driving/animated-AdventureTime/B_2019.11.29_13.05.25.csv,RSRP,690,True,-0.03803063675035306,Amazon Prime,Driving,2019-11-29
+Amazon_Prime/Driving/animated-AdventureTime/B_2019.11.29_13.05.25.csv,RSRQ,690,True,-0.056265879610285285,Amazon Prime,Driving,2019-11-29
+Amazon_Prime/Driving/animated-AdventureTime/B_2019.11.29_13.05.25.csv,SNR,469,True,-0.06558360712217537,Amazon Prime,Driving,2019-11-29
+Amazon_Prime/Driving/animated-AdventureTime/B_2019.11.29_13.05.25.csv,CQI,469,True,-0.047677545670749964,Amazon Prime,Driving,2019-11-29
+Amazon_Prime/Static/Season3-TheExpanse/B_2019.12.19_15.00.47.csv,RSRP,1571,True,-0.0160533373757361,Amazon Prime,Static,2019-12-19
+Amazon_Prime/Static/Season3-TheExpanse/B_2019.12.19_15.00.47.csv,RSRQ,1571,True,0.04487645165329491,Amazon Prime,Static,2019-12-19
+Amazon_Prime/Static/Season3-TheExpanse/B_2019.12.19_15.00.47.csv,SNR,1571,True,0.034566693114914816,Amazon Prime,Static,2019-12-19
+Amazon_Prime/Static/Season3-TheExpanse/B_2019.12.19_15.00.47.csv,CQI,1571,True,-0.0026759632452880823,Amazon Prime,Static,2019-12-19
+Amazon_Prime/Static/Season3-TheExpanse/B_2019.12.23_10.30.35.csv,RSRP,5185,True,-0.18084800934049022,Amazon Prime,Static,2019-12-23
+Amazon_Prime/Static/Season3-TheExpanse/B_2019.12.23_10.30.35.csv,RSRQ,5185,True,-0.2194832559626992,Amazon Prime,Static,2019-12-23
+Amazon_Prime/Static/Season3-TheExpanse/B_2019.12.23_10.30.35.csv,SNR,3317,True,-0.04056667286040602,Amazon Prime,Static,2019-12-23
+Amazon_Prime/Static/Season3-TheExpanse/B_2019.12.23_10.30.35.csv,CQI,3317,True,0.005711919599700552,Amazon Prime,Static,2019-12-23
+Amazon_Prime/Static/Season3-TheExpanse/B_2020.01.03_08.59.40.csv,RSRP,4353,True,0.03876511113164954,Amazon Prime,Static,2020-01-03
+Amazon_Prime/Static/Season3-TheExpanse/B_2020.01.03_08.59.40.csv,RSRQ,4353,True,0.06018266133729383,Amazon Prime,Static,2020-01-03
+Amazon_Prime/Static/Season3-TheExpanse/B_2020.01.03_08.59.40.csv,SNR,4353,True,0.0377112152808999,Amazon Prime,Static,2020-01-03
+Amazon_Prime/Static/Season3-TheExpanse/B_2020.01.03_08.59.40.csv,CQI,4353,True,0.023428663694217415,Amazon Prime,Static,2020-01-03
+Amazon_Prime/Static/Season3-TheExpanse/B_2020.01.03_10.54.39.csv,RSRP,3609,True,0.011036232408927635,Amazon Prime,Static,2020-01-03
+Amazon_Prime/Static/Season3-TheExpanse/B_2020.01.03_10.54.39.csv,RSRQ,3609,True,-0.011094038230261012,Amazon Prime,Static,2020-01-03
+Amazon_Prime/Static/Season3-TheExpanse/B_2020.01.03_10.54.39.csv,SNR,3609,True,-0.003724994320055202,Amazon Prime,Static,2020-01-03
+Amazon_Prime/Static/Season3-TheExpanse/B_2020.01.03_10.54.39.csv,CQI,3609,True,0.02687981891978623,Amazon Prime,Static,2020-01-03
+Amazon_Prime/Static/Season3-TheExpanse/B_2020.01.05_14.55.57.csv,RSRP,1568,True,-0.07016553228605563,Amazon Prime,Static,2020-01-05
+Amazon_Prime/Static/Season3-TheExpanse/B_2020.01.05_14.55.57.csv,RSRQ,1568,True,-0.10330940622056502,Amazon Prime,Static,2020-01-05
+Amazon_Prime/Static/Season3-TheExpanse/B_2020.01.05_14.55.57.csv,SNR,1568,True,0.05516458964483118,Amazon Prime,Static,2020-01-05
+Amazon_Prime/Static/Season3-TheExpanse/B_2020.01.05_14.55.57.csv,CQI,1568,True,0.07467637356892917,Amazon Prime,Static,2020-01-05
+Amazon_Prime/Static/animated-Ninjago/B_2020.01.06_09.55.13.csv,RSRP,1939,True,-0.026789074591495682,Amazon Prime,Static,2020-01-06
+Amazon_Prime/Static/animated-Ninjago/B_2020.01.06_09.55.13.csv,RSRQ,1939,True,0.026328718016220515,Amazon Prime,Static,2020-01-06
+Amazon_Prime/Static/animated-Ninjago/B_2020.01.06_09.55.13.csv,SNR,1939,True,-0.028805750949729036,Amazon Prime,Static,2020-01-06
+Amazon_Prime/Static/animated-Ninjago/B_2020.01.06_09.55.13.csv,CQI,1939,True,0.029094241563792696,Amazon Prime,Static,2020-01-06
+Amazon_Prime/Static/animated-Ninjago/B_2020.01.06_11.08.12.csv,RSRP,736,True,0.09922965847420528,Amazon Prime,Static,2020-01-06
+Amazon_Prime/Static/animated-Ninjago/B_2020.01.06_11.08.12.csv,RSRQ,736,True,-0.07501729996996251,Amazon Prime,Static,2020-01-06
+Amazon_Prime/Static/animated-Ninjago/B_2020.01.06_11.08.12.csv,SNR,736,True,-0.07465264420965669,Amazon Prime,Static,2020-01-06
+Amazon_Prime/Static/animated-Ninjago/B_2020.01.06_11.08.12.csv,CQI,736,True,-0.03468056868104627,Amazon Prime,Static,2020-01-06
+Amazon_Prime/Static/animated-Ninjago/B_2020.01.06_11.40.29.csv,RSRP,3382,True,0.02640986101569355,Amazon Prime,Static,2020-01-06
+Amazon_Prime/Static/animated-Ninjago/B_2020.01.06_11.40.29.csv,RSRQ,3377,True,0.02309263976372554,Amazon Prime,Static,2020-01-06
+Amazon_Prime/Static/animated-Ninjago/B_2020.01.06_11.40.29.csv,SNR,3377,True,0.02397509183383459,Amazon Prime,Static,2020-01-06
+Amazon_Prime/Static/animated-Ninjago/B_2020.01.06_11.40.29.csv,CQI,3377,True,0.0229166741657188,Amazon Prime,Static,2020-01-06
+Download/Driving/B_2019.12.14_10.16.30.csv,RSRP,982,True,-0.26370929269356913,Download,Driving,2019-12-14
+Download/Driving/B_2019.12.14_10.16.30.csv,RSRQ,984,True,-0.2871460699345525,Download,Driving,2019-12-14
+Download/Driving/B_2019.12.14_10.16.30.csv,SNR,617,True,0.19409032316410457,Download,Driving,2019-12-14
+Download/Driving/B_2019.12.14_10.16.30.csv,CQI,617,True,0.3632753287625103,Download,Driving,2019-12-14
+Download/Driving/B_2019.12.16_07.22.43.csv,RSRP,2196,True,0.3455413254657962,Download,Driving,2019-12-16
+Download/Driving/B_2019.12.16_07.22.43.csv,RSRQ,2196,True,0.13205877463138688,Download,Driving,2019-12-16
+Download/Driving/B_2019.12.16_07.22.43.csv,SNR,2196,True,0.18998310069840638,Download,Driving,2019-12-16
+Download/Driving/B_2019.12.16_07.22.43.csv,CQI,2196,True,0.2029953537761743,Download,Driving,2019-12-16
+Download/Driving/B_2019.12.16_11.49.59.csv,RSRP,339,True,0.45213600756355704,Download,Driving,2019-12-16
+Download/Driving/B_2019.12.16_11.49.59.csv,RSRQ,339,False,,Download,Driving,2019-12-16
+Download/Driving/B_2019.12.16_11.49.59.csv,SNR,0,False,,Download,Driving,2019-12-16
+Download/Driving/B_2019.12.16_11.49.59.csv,CQI,0,False,,Download,Driving,2019-12-16
+Download/Driving/B_2019.12.16_12.27.05.csv,RSRP,1141,True,0.19461393276266087,Download,Driving,2019-12-16
+Download/Driving/B_2019.12.16_12.27.05.csv,RSRQ,1141,True,-0.5028863882748111,Download,Driving,2019-12-16
+Download/Driving/B_2019.12.16_12.27.05.csv,SNR,851,True,0.1274626046037514,Download,Driving,2019-12-16
+Download/Driving/B_2019.12.16_12.27.05.csv,CQI,851,True,-0.03669689067501891,Download,Driving,2019-12-16
+Download/Driving/B_2019.12.16_14.23.32.csv,RSRP,2491,True,0.3690563299620502,Download,Driving,2019-12-16
+Download/Driving/B_2019.12.16_14.23.32.csv,RSRQ,2491,True,0.24721958392433538,Download,Driving,2019-12-16
+Download/Driving/B_2019.12.16_14.23.32.csv,SNR,2491,True,0.3227290535623827,Download,Driving,2019-12-16
+Download/Driving/B_2019.12.16_14.23.32.csv,CQI,2491,True,0.3297070161666251,Download,Driving,2019-12-16
+Download/Driving/B_2019.12.17_07.32.39.csv,RSRP,2183,True,0.2166302503644579,Download,Driving,2019-12-17
+Download/Driving/B_2019.12.17_07.32.39.csv,RSRQ,2183,True,0.13294338188500757,Download,Driving,2019-12-17
+Download/Driving/B_2019.12.17_07.32.39.csv,SNR,2183,True,0.21006109044018398,Download,Driving,2019-12-17
+Download/Driving/B_2019.12.17_07.32.39.csv,CQI,2183,True,0.24628582038001423,Download,Driving,2019-12-17
+Download/Driving/B_2020.01.16_07.26.43.csv,RSRP,1696,True,0.1261129255588647,Download,Driving,2020-01-16
+Download/Driving/B_2020.01.16_07.26.43.csv,RSRQ,1696,True,0.15102472470801875,Download,Driving,2020-01-16
+Download/Driving/B_2020.01.16_07.26.43.csv,SNR,1696,True,0.023184467238518858,Download,Driving,2020-01-16
+Download/Driving/B_2020.01.16_07.26.43.csv,CQI,1696,True,0.2501722892526124,Download,Driving,2020-01-16
+Download/Driving/B_2020.01.16_09.56.56.csv,RSRP,1503,True,0.15409047232596812,Download,Driving,2020-01-16
+Download/Driving/B_2020.01.16_09.56.56.csv,RSRQ,1503,True,0.09740713847400581,Download,Driving,2020-01-16
+Download/Driving/B_2020.01.16_09.56.56.csv,SNR,1503,True,0.2005926376914037,Download,Driving,2020-01-16
+Download/Driving/B_2020.01.16_09.56.56.csv,CQI,1503,True,0.2644251841341109,Download,Driving,2020-01-16
+Download/Driving/B_2020.01.16_12.10.03.csv,RSRP,328,True,0.28879688612726945,Download,Driving,2020-01-16
+Download/Driving/B_2020.01.16_12.10.03.csv,RSRQ,328,True,0.20122383881832176,Download,Driving,2020-01-16
+Download/Driving/B_2020.01.16_12.10.03.csv,SNR,328,True,0.27788043061213646,Download,Driving,2020-01-16
+Download/Driving/B_2020.01.16_12.10.03.csv,CQI,328,True,0.24474997801818374,Download,Driving,2020-01-16
+Download/Driving/B_2020.02.13_13.03.24.csv,RSRP,2105,True,-0.14577322209446136,Download,Driving,2020-02-13
+Download/Driving/B_2020.02.13_13.03.24.csv,RSRQ,1637,True,0.06546212207220758,Download,Driving,2020-02-13
+Download/Driving/B_2020.02.13_13.03.24.csv,SNR,1637,True,0.07604807752676986,Download,Driving,2020-02-13
+Download/Driving/B_2020.02.13_13.03.24.csv,CQI,1637,True,0.120762101510224,Download,Driving,2020-02-13
+Download/Driving/B_2020.02.13_15.02.01.csv,RSRP,2573,True,0.3765696492827087,Download,Driving,2020-02-13
+Download/Driving/B_2020.02.13_15.02.01.csv,RSRQ,2429,True,0.12656588754300527,Download,Driving,2020-02-13
+Download/Driving/B_2020.02.13_15.02.01.csv,SNR,2572,True,0.2948625570288559,Download,Driving,2020-02-13
+Download/Driving/B_2020.02.13_15.02.01.csv,CQI,2572,True,0.3395833124365943,Download,Driving,2020-02-13
+Download/Driving/B_2020.02.14_07.29.00.csv,RSRP,1883,True,0.019823958739251035,Download,Driving,2020-02-14
+Download/Driving/B_2020.02.14_07.29.00.csv,RSRQ,1716,True,0.0905641238593601,Download,Driving,2020-02-14
+Download/Driving/B_2020.02.14_07.29.00.csv,SNR,1716,True,0.11792981431120098,Download,Driving,2020-02-14
+Download/Driving/B_2020.02.14_07.29.00.csv,CQI,1716,True,0.2332333392030655,Download,Driving,2020-02-14
+Download/Driving/B_2020.02.14_09.38.22.csv,RSRP,1425,True,0.2886177883493345,Download,Driving,2020-02-14
+Download/Driving/B_2020.02.14_09.38.22.csv,RSRQ,1425,True,0.20261167512708048,Download,Driving,2020-02-14
+Download/Driving/B_2020.02.14_09.38.22.csv,SNR,1425,True,0.10058423488262913,Download,Driving,2020-02-14
+Download/Driving/B_2020.02.14_09.38.22.csv,CQI,1425,True,0.23291119559272278,Download,Driving,2020-02-14
+Download/Driving/B_2020.02.14_12.58.17.csv,RSRP,809,True,0.3772735165080081,Download,Driving,2020-02-14
+Download/Driving/B_2020.02.14_12.58.17.csv,RSRQ,252,True,0.16552240131512197,Download,Driving,2020-02-14
+Download/Driving/B_2020.02.14_12.58.17.csv,SNR,252,True,0.13054976479690383,Download,Driving,2020-02-14
+Download/Driving/B_2020.02.14_12.58.17.csv,CQI,252,True,0.44620189200278454,Download,Driving,2020-02-14
+Download/Driving/B_2020.02.27_17.30.15.csv,RSRP,733,True,0.23928161682541316,Download,Driving,2020-02-27
+Download/Driving/B_2020.02.27_17.30.15.csv,RSRQ,197,True,0.39564841836492254,Download,Driving,2020-02-27
+Download/Driving/B_2020.02.27_17.30.15.csv,SNR,197,True,0.44131161097995153,Download,Driving,2020-02-27
+Download/Driving/B_2020.02.27_17.30.15.csv,CQI,197,True,0.2897240812433087,Download,Driving,2020-02-27
+Download/Driving/B_2020.02.27_20.35.57.csv,RSRP,721,True,-0.138878882387397,Download,Driving,2020-02-27
+Download/Driving/B_2020.02.27_20.35.57.csv,RSRQ,278,True,0.1455911634978446,Download,Driving,2020-02-27
+Download/Driving/B_2020.02.27_20.35.57.csv,SNR,278,True,0.25838486668961175,Download,Driving,2020-02-27
+Download/Driving/B_2020.02.27_20.35.57.csv,CQI,277,True,0.2099497384850068,Download,Driving,2020-02-27
+Download/Static/B_2019.12.16_13.40.04.csv,RSRP,1897,True,-0.08767182408289369,Download,Static,2019-12-16
+Download/Static/B_2019.12.16_13.40.04.csv,RSRQ,1897,True,-0.24176523675205336,Download,Static,2019-12-16
+Download/Static/B_2019.12.16_13.40.04.csv,SNR,1897,True,-0.0205300654084405,Download,Static,2019-12-16
+Download/Static/B_2019.12.16_13.40.04.csv,CQI,1897,True,-0.14644069831256062,Download,Static,2019-12-16
+Download/Static/B_2020.01.16_10.43.34.csv,RSRP,3019,True,-0.055173340232125966,Download,Static,2020-01-16
+Download/Static/B_2020.01.16_10.43.34.csv,RSRQ,3011,True,-0.326508000869551,Download,Static,2020-01-16
+Download/Static/B_2020.01.16_10.43.34.csv,SNR,3019,True,-0.027769788754707092,Download,Static,2020-01-16
+Download/Static/B_2020.01.16_10.43.34.csv,CQI,3019,True,-0.007536548155863692,Download,Static,2020-01-16
+Download/Static/B_2020.02.13_13.57.29.csv,RSRP,2873,True,0.028858921953851042,Download,Static,2020-02-13
+Download/Static/B_2020.02.13_13.57.29.csv,RSRQ,2873,True,-0.16977743934230186,Download,Static,2020-02-13
+Download/Static/B_2020.02.13_13.57.29.csv,SNR,2873,True,0.013918119381269748,Download,Static,2020-02-13
+Download/Static/B_2020.02.13_13.57.29.csv,CQI,2873,True,0.06982215536696575,Download,Static,2020-02-13
+Download/Static/B_2020.02.14_13.21.26.csv,RSRP,913,True,0.006192801636998376,Download,Static,2020-02-14
+Download/Static/B_2020.02.14_13.21.26.csv,RSRQ,913,True,-0.21037046768193127,Download,Static,2020-02-14
+Download/Static/B_2020.02.14_13.21.26.csv,SNR,913,True,0.019827362096112293,Download,Static,2020-02-14
+Download/Static/B_2020.02.14_13.21.26.csv,CQI,913,True,0.136951697665138,Download,Static,2020-02-14
+Download/Static/B_2020.02.27_18.39.27.csv,RSRP,5483,True,-0.002596029084394374,Download,Static,2020-02-27
+Download/Static/B_2020.02.27_18.39.27.csv,RSRQ,5483,True,-0.049711156202194746,Download,Static,2020-02-27
+Download/Static/B_2020.02.27_18.39.27.csv,SNR,5483,True,0.0718551786414101,Download,Static,2020-02-27
+Download/Static/B_2020.02.27_18.39.27.csv,CQI,5483,True,0.06828423170824255,Download,Static,2020-02-27
+Netflix/Driving/Season3-StrangerThings/B_2019.11.23_12.27.34.csv,RSRP,309,True,0.10413530133401208,Netflix,Driving,2019-11-23
+Netflix/Driving/Season3-StrangerThings/B_2019.11.23_12.27.34.csv,RSRQ,309,True,0.020015505504685054,Netflix,Driving,2019-11-23
+Netflix/Driving/Season3-StrangerThings/B_2019.11.23_12.27.34.csv,SNR,304,True,0.1467048660729759,Netflix,Driving,2019-11-23
+Netflix/Driving/Season3-StrangerThings/B_2019.11.23_12.27.34.csv,CQI,304,True,0.03971976114552242,Netflix,Driving,2019-11-23
+Netflix/Driving/Season3-StrangerThings/B_2019.11.23_13.28.26.csv,RSRP,670,True,0.0030462607324056256,Netflix,Driving,2019-11-23
+Netflix/Driving/Season3-StrangerThings/B_2019.11.23_13.28.26.csv,RSRQ,670,True,-0.03196032310544417,Netflix,Driving,2019-11-23
+Netflix/Driving/Season3-StrangerThings/B_2019.11.23_13.28.26.csv,SNR,670,True,-0.04530359801400963,Netflix,Driving,2019-11-23
+Netflix/Driving/Season3-StrangerThings/B_2019.11.23_13.28.26.csv,CQI,670,True,-0.03291398037530305,Netflix,Driving,2019-11-23
+Netflix/Driving/Season3-StrangerThings/B_2019.11.23_16.08.19.csv,RSRP,338,True,-0.06575445479000055,Netflix,Driving,2019-11-23
+Netflix/Driving/Season3-StrangerThings/B_2019.11.23_16.08.19.csv,RSRQ,338,True,-0.2680397975509136,Netflix,Driving,2019-11-23
+Netflix/Driving/Season3-StrangerThings/B_2019.11.23_16.08.19.csv,SNR,338,True,-0.06116508064420102,Netflix,Driving,2019-11-23
+Netflix/Driving/Season3-StrangerThings/B_2019.11.23_16.08.19.csv,CQI,338,True,-0.1375011597386248,Netflix,Driving,2019-11-23
+Netflix/Driving/Season3-StrangerThings/B_2019.11.24_12.19.13.csv,RSRP,237,True,-0.20381922734261573,Netflix,Driving,2019-11-24
+Netflix/Driving/Season3-StrangerThings/B_2019.11.24_12.19.13.csv,RSRQ,237,True,-0.30341384136574656,Netflix,Driving,2019-11-24
+Netflix/Driving/Season3-StrangerThings/B_2019.11.24_12.19.13.csv,SNR,233,True,-0.033170250993215036,Netflix,Driving,2019-11-24
+Netflix/Driving/Season3-StrangerThings/B_2019.11.24_12.19.13.csv,CQI,233,True,-0.14107072255666245,Netflix,Driving,2019-11-24
+Netflix/Driving/Season3-StrangerThings/B_2019.11.24_13.06.36.csv,RSRP,217,True,0.22053703074023415,Netflix,Driving,2019-11-24
+Netflix/Driving/Season3-StrangerThings/B_2019.11.24_13.06.36.csv,RSRQ,217,True,-0.12523121432617934,Netflix,Driving,2019-11-24
+Netflix/Driving/Season3-StrangerThings/B_2019.11.24_13.06.36.csv,SNR,217,True,0.24198109319185285,Netflix,Driving,2019-11-24
+Netflix/Driving/Season3-StrangerThings/B_2019.11.24_13.06.36.csv,CQI,217,True,0.08548454603764127,Netflix,Driving,2019-11-24
+Netflix/Driving/Season3-StrangerThings/B_2019.11.25_07.25.43.csv,RSRP,502,True,-0.12561427297536218,Netflix,Driving,2019-11-25
+Netflix/Driving/Season3-StrangerThings/B_2019.11.25_07.25.43.csv,RSRQ,502,True,-0.05945280443986545,Netflix,Driving,2019-11-25
+Netflix/Driving/Season3-StrangerThings/B_2019.11.25_07.25.43.csv,SNR,467,True,-0.014629628711959827,Netflix,Driving,2019-11-25
+Netflix/Driving/Season3-StrangerThings/B_2019.11.25_07.25.43.csv,CQI,467,True,-0.08540107949522514,Netflix,Driving,2019-11-25
+Netflix/Driving/Season3-StrangerThings/B_2019.11.25_15.34.34.csv,RSRP,522,True,0.0829372561435292,Netflix,Driving,2019-11-25
+Netflix/Driving/Season3-StrangerThings/B_2019.11.25_15.34.34.csv,RSRQ,520,True,0.024052840933998003,Netflix,Driving,2019-11-25
+Netflix/Driving/Season3-StrangerThings/B_2019.11.25_15.34.34.csv,SNR,507,True,0.13199772424183845,Netflix,Driving,2019-11-25
+Netflix/Driving/Season3-StrangerThings/B_2019.11.25_15.34.34.csv,CQI,507,True,-0.14483777038084847,Netflix,Driving,2019-11-25
+Netflix/Driving/Season3-StrangerThings/B_2019.11.26_07.29.24.csv,RSRP,495,True,-0.019868935944790143,Netflix,Driving,2019-11-26
+Netflix/Driving/Season3-StrangerThings/B_2019.11.26_07.29.24.csv,RSRQ,495,True,-0.09186659721296866,Netflix,Driving,2019-11-26
+Netflix/Driving/Season3-StrangerThings/B_2019.11.26_07.29.24.csv,SNR,495,True,0.043782924214562084,Netflix,Driving,2019-11-26
+Netflix/Driving/Season3-StrangerThings/B_2019.11.26_07.29.24.csv,CQI,495,True,0.004702282009498504,Netflix,Driving,2019-11-26
+Netflix/Driving/Season3-StrangerThings/B_2019.11.26_09.53.40.csv,RSRP,1151,True,-0.04041880047718815,Netflix,Driving,2019-11-26
+Netflix/Driving/Season3-StrangerThings/B_2019.11.26_09.53.40.csv,RSRQ,1151,True,-0.07148836011035141,Netflix,Driving,2019-11-26
+Netflix/Driving/Season3-StrangerThings/B_2019.11.26_09.53.40.csv,SNR,1151,True,0.017107581758427023,Netflix,Driving,2019-11-26
+Netflix/Driving/Season3-StrangerThings/B_2019.11.26_09.53.40.csv,CQI,1151,True,0.014433623483253088,Netflix,Driving,2019-11-26
+Netflix/Driving/Season3-StrangerThings/B_2019.11.26_13.00.56.csv,RSRP,249,True,-0.07990673609947296,Netflix,Driving,2019-11-26
+Netflix/Driving/Season3-StrangerThings/B_2019.11.26_13.00.56.csv,RSRQ,249,True,-0.07721731288401426,Netflix,Driving,2019-11-26
+Netflix/Driving/Season3-StrangerThings/B_2019.11.26_13.00.56.csv,SNR,249,True,-0.07959761567181917,Netflix,Driving,2019-11-26
+Netflix/Driving/Season3-StrangerThings/B_2019.11.26_13.00.56.csv,CQI,249,True,-0.1422043500235025,Netflix,Driving,2019-11-26
+Netflix/Driving/Season3-StrangerThings/B_2019.11.26_13.20.42.csv,RSRP,170,True,0.16316485535652145,Netflix,Driving,2019-11-26
+Netflix/Driving/Season3-StrangerThings/B_2019.11.26_13.20.42.csv,RSRQ,170,True,0.2786236873856039,Netflix,Driving,2019-11-26
+Netflix/Driving/Season3-StrangerThings/B_2019.11.26_13.20.42.csv,SNR,170,True,0.25760308508491386,Netflix,Driving,2019-11-26
+Netflix/Driving/Season3-StrangerThings/B_2019.11.26_13.20.42.csv,CQI,170,True,0.18719630744937427,Netflix,Driving,2019-11-26
+Netflix/Driving/Season3-StrangerThings/B_2019.11.26_15.02.50.csv,RSRP,957,True,-0.057539376796708695,Netflix,Driving,2019-11-26
+Netflix/Driving/Season3-StrangerThings/B_2019.11.26_15.02.50.csv,RSRQ,957,True,-0.08226662000403809,Netflix,Driving,2019-11-26
+Netflix/Driving/Season3-StrangerThings/B_2019.11.26_15.02.50.csv,SNR,923,True,-0.03589003431359794,Netflix,Driving,2019-11-26
+Netflix/Driving/Season3-StrangerThings/B_2019.11.26_15.02.50.csv,CQI,923,True,-0.053301849301820796,Netflix,Driving,2019-11-26
+Netflix/Driving/Season3-StrangerThings/B_2019.11.27_07.29.47.csv,RSRP,880,True,0.2124537446131388,Netflix,Driving,2019-11-27
+Netflix/Driving/Season3-StrangerThings/B_2019.11.27_07.29.47.csv,RSRQ,878,True,0.0051872669582036825,Netflix,Driving,2019-11-27
+Netflix/Driving/Season3-StrangerThings/B_2019.11.27_07.29.47.csv,SNR,450,True,-0.01601675531832429,Netflix,Driving,2019-11-27
+Netflix/Driving/Season3-StrangerThings/B_2019.11.27_07.29.47.csv,CQI,450,True,0.010132792337345936,Netflix,Driving,2019-11-27
+Netflix/Driving/Season3-StrangerThings/B_2019.11.27_16.33.16.csv,RSRP,600,True,-0.10357455892955171,Netflix,Driving,2019-11-27
+Netflix/Driving/Season3-StrangerThings/B_2019.11.27_16.33.16.csv,RSRQ,600,True,-0.04825516105722478,Netflix,Driving,2019-11-27
+Netflix/Driving/Season3-StrangerThings/B_2019.11.27_16.33.16.csv,SNR,587,True,0.03405273408484472,Netflix,Driving,2019-11-27
+Netflix/Driving/Season3-StrangerThings/B_2019.11.27_16.33.16.csv,CQI,587,True,-0.21740679270736002,Netflix,Driving,2019-11-27
+Netflix/Driving/animated-RickandMorty/B_2019.11.20_16.55.16.csv,RSRP,601,True,-0.03209980397194443,Netflix,Driving,2019-11-20
+Netflix/Driving/animated-RickandMorty/B_2019.11.20_16.55.16.csv,RSRQ,601,True,-0.007674192489809143,Netflix,Driving,2019-11-20
+Netflix/Driving/animated-RickandMorty/B_2019.11.20_16.55.16.csv,SNR,583,True,-0.02359136116311224,Netflix,Driving,2019-11-20
+Netflix/Driving/animated-RickandMorty/B_2019.11.20_16.55.16.csv,CQI,583,True,-0.12530475650072526,Netflix,Driving,2019-11-20
+Netflix/Driving/animated-RickandMorty/B_2019.11.21_07.59.06.csv,RSRP,638,True,-0.16355649468998812,Netflix,Driving,2019-11-21
+Netflix/Driving/animated-RickandMorty/B_2019.11.21_07.59.06.csv,RSRQ,638,True,-0.17262504651776445,Netflix,Driving,2019-11-21
+Netflix/Driving/animated-RickandMorty/B_2019.11.21_07.59.06.csv,SNR,630,True,-0.1461261545971978,Netflix,Driving,2019-11-21
+Netflix/Driving/animated-RickandMorty/B_2019.11.21_07.59.06.csv,CQI,630,True,-0.14811486344195554,Netflix,Driving,2019-11-21
+Netflix/Driving/animated-RickandMorty/B_2019.11.21_09.03.55.csv,RSRP,117,True,0.06574737753614647,Netflix,Driving,2019-11-21
+Netflix/Driving/animated-RickandMorty/B_2019.11.21_09.03.55.csv,RSRQ,117,True,0.0131443977926283,Netflix,Driving,2019-11-21
+Netflix/Driving/animated-RickandMorty/B_2019.11.21_09.03.55.csv,SNR,117,True,0.07103588147939287,Netflix,Driving,2019-11-21
+Netflix/Driving/animated-RickandMorty/B_2019.11.21_09.03.55.csv,CQI,117,True,0.03844346890475907,Netflix,Driving,2019-11-21
+Netflix/Driving/animated-RickandMorty/B_2019.11.21_09.44.52.csv,RSRP,315,True,-0.13774769287675512,Netflix,Driving,2019-11-21
+Netflix/Driving/animated-RickandMorty/B_2019.11.21_09.44.52.csv,RSRQ,315,True,-0.07626320614280525,Netflix,Driving,2019-11-21
+Netflix/Driving/animated-RickandMorty/B_2019.11.21_09.44.52.csv,SNR,262,True,-0.18448047070999438,Netflix,Driving,2019-11-21
+Netflix/Driving/animated-RickandMorty/B_2019.11.21_09.44.52.csv,CQI,262,True,-0.25031504364670054,Netflix,Driving,2019-11-21
+Netflix/Driving/animated-RickandMorty/B_2019.11.21_10.20.17.csv,RSRP,85,True,-0.3551485042899548,Netflix,Driving,2019-11-21
+Netflix/Driving/animated-RickandMorty/B_2019.11.21_10.20.17.csv,RSRQ,85,True,-0.39046575609328976,Netflix,Driving,2019-11-21
+Netflix/Driving/animated-RickandMorty/B_2019.11.21_10.20.17.csv,SNR,85,True,-0.10615658661282351,Netflix,Driving,2019-11-21
+Netflix/Driving/animated-RickandMorty/B_2019.11.21_10.20.17.csv,CQI,85,True,-0.3731227554140777,Netflix,Driving,2019-11-21
+Netflix/Driving/animated-RickandMorty/B_2019.11.21_14.33.25.csv,RSRP,379,True,-0.08987615105619616,Netflix,Driving,2019-11-21
+Netflix/Driving/animated-RickandMorty/B_2019.11.21_14.33.25.csv,RSRQ,379,True,-0.06954318987131597,Netflix,Driving,2019-11-21
+Netflix/Driving/animated-RickandMorty/B_2019.11.21_14.33.25.csv,SNR,346,True,-0.03081298167336816,Netflix,Driving,2019-11-21
+Netflix/Driving/animated-RickandMorty/B_2019.11.21_14.33.25.csv,CQI,346,True,0.007721674095236864,Netflix,Driving,2019-11-21
+Netflix/Driving/animated-RickandMorty/B_2019.11.21_15.38.35.csv,RSRP,553,True,0.1967447134940173,Netflix,Driving,2019-11-21
+Netflix/Driving/animated-RickandMorty/B_2019.11.21_15.38.35.csv,RSRQ,553,True,0.1771301171481384,Netflix,Driving,2019-11-21
+Netflix/Driving/animated-RickandMorty/B_2019.11.21_15.38.35.csv,SNR,419,True,-0.049086893565829445,Netflix,Driving,2019-11-21
+Netflix/Driving/animated-RickandMorty/B_2019.11.21_15.38.35.csv,CQI,419,True,-0.050552473746909285,Netflix,Driving,2019-11-21
+Netflix/Driving/animated-RickandMorty/B_2019.11.21_16.15.17.csv,RSRP,333,True,-0.06993102781523453,Netflix,Driving,2019-11-21
+Netflix/Driving/animated-RickandMorty/B_2019.11.21_16.15.17.csv,RSRQ,333,True,-0.02213486083618783,Netflix,Driving,2019-11-21
+Netflix/Driving/animated-RickandMorty/B_2019.11.21_16.15.17.csv,SNR,333,True,-0.11343915736400942,Netflix,Driving,2019-11-21
+Netflix/Driving/animated-RickandMorty/B_2019.11.21_16.15.17.csv,CQI,333,True,-0.188277864015661,Netflix,Driving,2019-11-21
+Netflix/Driving/animated-RickandMorty/B_2019.11.22_07.30.04.csv,RSRP,294,True,-0.13316815641579802,Netflix,Driving,2019-11-22
+Netflix/Driving/animated-RickandMorty/B_2019.11.22_07.30.04.csv,RSRQ,294,True,-0.07166078843447583,Netflix,Driving,2019-11-22
+Netflix/Driving/animated-RickandMorty/B_2019.11.22_07.30.04.csv,SNR,294,True,0.06269298674592366,Netflix,Driving,2019-11-22
+Netflix/Driving/animated-RickandMorty/B_2019.11.22_07.30.04.csv,CQI,294,True,-0.047191119600937005,Netflix,Driving,2019-11-22
+Netflix/Static/Season3-StrangerThings/B_2019.11.26_13.50.48.csv,RSRP,692,True,-0.0684917879716827,Netflix,Static,2019-11-26
+Netflix/Static/Season3-StrangerThings/B_2019.11.26_13.50.48.csv,RSRQ,692,True,-0.0369915512950331,Netflix,Static,2019-11-26
+Netflix/Static/Season3-StrangerThings/B_2019.11.26_13.50.48.csv,SNR,692,True,-0.05109774078595773,Netflix,Static,2019-11-26
+Netflix/Static/Season3-StrangerThings/B_2019.11.26_13.50.48.csv,CQI,692,True,0.013687933779157955,Netflix,Static,2019-11-26
+Netflix/Static/Season3-StrangerThings/B_2019.11.28_09.21.45.csv,RSRP,675,True,-0.039480542111017126,Netflix,Static,2019-11-28
+Netflix/Static/Season3-StrangerThings/B_2019.11.28_09.21.45.csv,RSRQ,675,True,-0.216974822635422,Netflix,Static,2019-11-28
+Netflix/Static/Season3-StrangerThings/B_2019.11.28_09.21.45.csv,SNR,675,True,-0.2706057259469508,Netflix,Static,2019-11-28
+Netflix/Static/Season3-StrangerThings/B_2019.11.28_09.21.45.csv,CQI,675,True,-0.2732628437441358,Netflix,Static,2019-11-28
+Netflix/Static/Season3-StrangerThings/B_2019.12.03_08.02.05.csv,RSRP,1550,True,-0.043825939216863036,Netflix,Static,2019-12-03
+Netflix/Static/Season3-StrangerThings/B_2019.12.03_08.02.05.csv,RSRQ,1550,True,0.0016344272268239786,Netflix,Static,2019-12-03
+Netflix/Static/Season3-StrangerThings/B_2019.12.03_08.02.05.csv,SNR,1548,True,0.011798772503417121,Netflix,Static,2019-12-03
+Netflix/Static/Season3-StrangerThings/B_2019.12.03_08.02.05.csv,CQI,1548,True,-0.00672575179779337,Netflix,Static,2019-12-03
+Netflix/Static/Season3-StrangerThings/B_2019.12.04_12.46.14.csv,RSRP,774,True,0.054884125104469245,Netflix,Static,2019-12-04
+Netflix/Static/Season3-StrangerThings/B_2019.12.04_12.46.14.csv,RSRQ,774,True,-0.02639308672256367,Netflix,Static,2019-12-04
+Netflix/Static/Season3-StrangerThings/B_2019.12.04_12.46.14.csv,SNR,774,True,0.11436686779176453,Netflix,Static,2019-12-04
+Netflix/Static/Season3-StrangerThings/B_2019.12.04_12.46.14.csv,CQI,774,True,0.019808524855201144,Netflix,Static,2019-12-04
+Netflix/Static/Season3-StrangerThings/B_2019.12.06_09.55.13.csv,RSRP,1460,True,0.007187975946375861,Netflix,Static,2019-12-06
+Netflix/Static/Season3-StrangerThings/B_2019.12.06_09.55.13.csv,RSRQ,1460,True,-0.08879885823344497,Netflix,Static,2019-12-06
+Netflix/Static/Season3-StrangerThings/B_2019.12.06_09.55.13.csv,SNR,1460,True,0.0027728088508982506,Netflix,Static,2019-12-06
+Netflix/Static/Season3-StrangerThings/B_2019.12.06_09.55.13.csv,CQI,1460,True,0.0013338474088224344,Netflix,Static,2019-12-06
+Netflix/Static/Season3-StrangerThings/B_2019.12.16_13.03.47.csv,RSRP,430,True,0.0248033018393796,Netflix,Static,2019-12-16
+Netflix/Static/Season3-StrangerThings/B_2019.12.16_13.03.47.csv,RSRQ,430,True,0.020801089603401046,Netflix,Static,2019-12-16
+Netflix/Static/Season3-StrangerThings/B_2019.12.16_13.03.47.csv,SNR,430,True,0.11532345149737389,Netflix,Static,2019-12-16
+Netflix/Static/Season3-StrangerThings/B_2019.12.16_13.03.47.csv,CQI,430,True,0.06529111176581011,Netflix,Static,2019-12-16
+Netflix/Static/animated-RickandMorty/B_2019.11.23_14.30.10.csv,RSRP,271,True,-0.01979516944157806,Netflix,Static,2019-11-23
+Netflix/Static/animated-RickandMorty/B_2019.11.23_14.30.10.csv,RSRQ,270,True,0.0021051356681816356,Netflix,Static,2019-11-23
+Netflix/Static/animated-RickandMorty/B_2019.11.23_14.30.10.csv,SNR,258,True,0.04658721689877226,Netflix,Static,2019-11-23
+Netflix/Static/animated-RickandMorty/B_2019.11.23_14.30.10.csv,CQI,258,True,0.10164386418753416,Netflix,Static,2019-11-23
+Netflix/Static/animated-RickandMorty/B_2019.11.26_08.02.38.csv,RSRP,992,True,0.06334779545155271,Netflix,Static,2019-11-26
+Netflix/Static/animated-RickandMorty/B_2019.11.26_08.02.38.csv,RSRQ,992,True,0.005135551684831084,Netflix,Static,2019-11-26
+Netflix/Static/animated-RickandMorty/B_2019.11.26_08.02.38.csv,SNR,992,True,-0.011396576108992402,Netflix,Static,2019-11-26
+Netflix/Static/animated-RickandMorty/B_2019.11.26_08.02.38.csv,CQI,992,True,0.03935182902706665,Netflix,Static,2019-11-26
+Netflix/Static/animated-RickandMorty/B_2019.11.26_09.27.10.csv,RSRP,259,True,-0.05960292227615776,Netflix,Static,2019-11-26
+Netflix/Static/animated-RickandMorty/B_2019.11.26_09.27.10.csv,RSRQ,259,True,0.06536108335229125,Netflix,Static,2019-11-26
+Netflix/Static/animated-RickandMorty/B_2019.11.26_09.27.10.csv,SNR,259,True,0.10934612468274722,Netflix,Static,2019-11-26
+Netflix/Static/animated-RickandMorty/B_2019.11.26_09.27.10.csv,CQI,259,True,-0.1286510030174646,Netflix,Static,2019-11-26
+Netflix/Static/animated-RickandMorty/B_2019.11.28_08.02.19.csv,RSRP,819,True,-0.0742482148793356,Netflix,Static,2019-11-28
+Netflix/Static/animated-RickandMorty/B_2019.11.28_08.02.19.csv,RSRQ,819,True,0.01571651522344026,Netflix,Static,2019-11-28
+Netflix/Static/animated-RickandMorty/B_2019.11.28_08.02.19.csv,SNR,819,True,-0.02752557730295218,Netflix,Static,2019-11-28
+Netflix/Static/animated-RickandMorty/B_2019.11.28_08.02.19.csv,CQI,819,True,0.03588906229819288,Netflix,Static,2019-11-28

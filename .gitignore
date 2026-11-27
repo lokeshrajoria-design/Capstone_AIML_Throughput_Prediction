@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+.ipynb_checkpoints/
+report/node_modules/
+__MACOSX/
+.DS_Store
+~$*.docx
+
+# Documents are kept out of the public repository
+docs/

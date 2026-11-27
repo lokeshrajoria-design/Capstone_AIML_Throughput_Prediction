@@ -1,0 +1,15 @@
+feature,mean_mae_increase,sd
+throughput_mean_10s,3.8885,1.8508
+application_type,1.6009,0.5297
+throughput_lag_0,0.8674,0.5069
+throughput_lag_5,0.4102,0.1857
+throughput_lag_2,0.2598,0.1769
+throughput_sd_10s,0.2053,0.1484
+throughput_lag_1,0.0773,0.0113
+Speed,0.0631,0.0757
+Missing-value flags,0.0479,0.0399
+NetworkMode,0.0409,0.0096
+RSRQ,0.0013,0.0014
+SNR,0.0013,0.002
+CQI,-0.0005,0.0012
+RSRP,-0.0015,0.0047
