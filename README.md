@@ -1,6 +1,6 @@
 # AI/ML-Based Prediction of 5G Downlink Throughput Using Channel and Context Metrics
 
-QM640 Data Analytics Capstone, Walsh College (Term 3). Student: Lokesh Rajoria. Mentor: Ms. Keya Choudhury Ganguli.
+QM640 Data Analytics Capstone, Walsh College (Term 3). Student: Lokesh Rajoria.
 
 The project predicts 5G downlink throughput five seconds ahead from what a phone records (throughput history,
 radio measurements RSRP, RSRQ, SNR, CQI, and context: speed, network mode, application type) and compares
